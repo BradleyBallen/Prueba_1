@@ -1,2 +1,7 @@
 Bradley Ballen 
+<<<<<<< HEAD
 juliannnn
+=======
+julian
+1354356
+>>>>>>> 4c0e1544c1c0296ff4fa43ddc229fb1db5821408
